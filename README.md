@@ -33,10 +33,10 @@
 
 | Name of Topic                                     | Number of Rooms | Number of Completed Rooms |
 | ------------------------------------------------- | :-------------: | :-----------------------: |
-| **[Introductory Rooms](#intro-rooms)**            |     **10**      |                           |
-| **[Linux Fundamentals](#linux-fundamentals)**     |      **3**      |           **1**           |
-| **[Windows Fundamentals](#windows-fundamentals)** |      **3**      |                           |
-| **[Basic Rooms](#basics-rooms)**                  |      **9**      |                           |
+| **[Introductory Rooms](#intro-rooms)**            |      **8**      |           **6**           |
+| **[Linux Fundamentals](#linux-fundamentals)**     |      **2**      |           **1**           |
+| **[Windows Fundamentals](#windows-fundamentals)** |      **4**      |           **4**           |
+| **[Basic Rooms](#basics-rooms)**                  |      **7**      |           **1**           |
 | **[Reconnaissance](#recon)**                      |     **10**      |                           |
 | **[Scripting](#scripting)**                       |      **8**      |                           |
 | **[Networking](#networking)**                     |      **7**      |                           |
@@ -69,8 +69,6 @@
 
 - [ ] [TryHackMe | How to use TryHackMe](https://tryhackme.com/room/howtousetryhackme)
 
-- [ ] [TryHackMe | Welcome](https://tryhackme.com/room/welcome)
-
 - [ ] [TryHackMe | Tutorial](https://tryhackme.com/room/tutorial)
 
 - [ ] [TryHackMe | OpenVPN](https://tryhackme.com/room/openvpn)
@@ -81,15 +79,11 @@
 
 - [ ] [TryHackMe | Introductory Researching](https://tryhackme.com/room/introtoresearch)
 
-- [ ] [TryHackMe | CC: Pen Testing](https://tryhackme.com/room/ccpentesting)
-
 - [ ] [TryHackMe | Regular expressions](https://tryhackme.com/room/catregex)
 
 ## Linux Fundamentals
 
 ---
-
-- [ ] [TryHackMe | Learn Linux](https://tryhackme.com/room/zthlinux)
 
 - [ ] [TryHackMe | Linux Modules](https://tryhackme.com/room/linuxmodules)
 
@@ -105,6 +99,8 @@
 
 - [ ] [TryHackMe | Windows Fundamentals 3](https://tryhackme.com/room/windowsfundamentals3xzx)
 
+- [ ] [TryHackMe | Active Directory Basics](https://tryhackme.com/room/winadbasics)
+
 ## Basics Rooms
 
 ---
@@ -113,8 +109,6 @@
 
 - [ ] [TryHackMe | Pentesting Fundamentals](https://tryhackme.com/room/pentestingfundamentals)
 
-- [ ] [TryHackMe | Principles of Security](https://tryhackme.com/room/principlesofsecurity)
-
 - [ ] [TryHackMe | The Hacker Methodology](https://tryhackme.com/room/hackermethodology)
 
 - [ ] [TryHackMe | Physical Security Intro](https://tryhackme.com/room/physicalsecurityintro)
@@ -122,8 +116,6 @@
 - [ ] [TryHackMe | Linux Strength Training](https://tryhackme.com/room/linuxstrengthtraining)
 
 - [ ] [TryHackMe | OpenVAS](https://tryhackme.com/room/openvas)
-
-- [ ] [TryHackMe | ISO27001](https://tryhackme.com/room/iso27001)
 
 - [ ] [TryHackMe | UltraTech](https://tryhackme.com/room/ultratech1)
 
